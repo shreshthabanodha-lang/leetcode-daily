@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -35,10 +36,12 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0027-remove-element) |
+| [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,8 +52,13 @@
 | [0005-longest-palindromic-substring](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0027-remove-element) |
+| [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
