@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
@@ -38,12 +40,14 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -67,6 +71,11 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
