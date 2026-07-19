@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
