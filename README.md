@@ -48,6 +48,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
+| [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,4 +90,24 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
