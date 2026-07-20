@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -30,6 +32,7 @@
 | [0005-longest-palindromic-substring](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
