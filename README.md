@@ -22,6 +22,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -47,6 +48,7 @@
 | [0027-remove-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -84,6 +87,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -115,5 +119,6 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
