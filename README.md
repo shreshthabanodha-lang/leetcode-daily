@@ -46,6 +46,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0169-majority-element) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -82,6 +84,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0053-maximum-subarray) |
 ## Sorting
 |  |
 | ------- |
