@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0053-maximum-subarray) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0075-sort-colors) |
@@ -95,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0169-majority-element) |
