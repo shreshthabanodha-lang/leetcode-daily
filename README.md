@@ -23,6 +23,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@
 | [0027-remove-element](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
