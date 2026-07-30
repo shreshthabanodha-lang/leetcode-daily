@@ -5,17 +5,20 @@ public:
         unordered_map <int, int > mpp ;
 
         vector <int> ans ;
+        int minn  = (nums.size() / 3) + 1 ;
 
         for (int i= 0 ; i < nums.size() ; i ++) {
 
             mpp[nums[i]] ++ ;
-        }
 
-        for (auto it : mpp) {
-            if (it.second > nums.size()/3){
-                ans.push_back(it.first) ;
+            if (mpp[nums[i]] == minn && find (ans.begin() , ans.end() , nums[i]) == ans.end()){
+                ans.push_back(nums[i]);
+
             }
         }
+
+       
+        
         return ans ;
         
     }
