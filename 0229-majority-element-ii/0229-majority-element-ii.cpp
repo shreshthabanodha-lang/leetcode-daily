@@ -11,7 +11,7 @@ public:
 
             mpp[nums[i]] ++ ;
 
-            if (mpp[nums[i]] == minn && find (ans.begin() , ans.end() , nums[i]) == ans.end()){
+            if (mpp[nums[i]] == minn){
                 ans.push_back(nums[i]);
 
             }
