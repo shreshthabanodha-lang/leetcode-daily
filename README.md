@@ -33,6 +33,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0912-sort-an-array) |
+| [3731-find-missing-elements](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
