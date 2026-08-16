@@ -22,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0073-set-matrix-zeroes) |
@@ -50,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0016-3sum-closest](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0018-4sum) |
