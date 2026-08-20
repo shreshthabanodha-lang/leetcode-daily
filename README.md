@@ -10,6 +10,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0189-rotate-array) |
