@@ -4,7 +4,7 @@ public:
 
         for (int i = 0 ; i < arr.size() ; i ++) {
 
-            if (k >= arr[i]) k++ ;
+            if (k >= arr[i]) k++ ;          
 
             else break ;
 
