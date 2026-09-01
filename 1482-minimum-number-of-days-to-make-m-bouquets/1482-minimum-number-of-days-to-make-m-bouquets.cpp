@@ -38,6 +38,7 @@ public:
             }
 
             if (bouquets >= m) {
+                
                 high = mid - 1;
             }
             else {
