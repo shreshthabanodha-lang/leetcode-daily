@@ -14,36 +14,17 @@ public:
 
         if (head == NULL) return head ;
 
-        ListNode* temp = head ;
+        ListNode* slow = head ;
+        ListNode* fast = head ;
 
-        int cnt = 0 ;
 
-        while (temp) {
-            temp = temp-> next ;
-            cnt++;
+        while (fast && fast ->next) {
+            fast = fast->next->next ;
+            slow = slow->next;
 
         }
-        int mid = cnt /2 ;
 
-        if (cnt == 1 ) return head ;
-
-
-        
-
-        temp = head;
-        int i = 0;
-
-        while (temp) {
-            if (i == mid){
-                return temp ;
-            }
-
-            temp = temp->next;
-            i++;
-
-        } 
-        return temp;
-        
+        return slow ;
         
     }
 };
