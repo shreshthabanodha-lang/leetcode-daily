@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0876-middle-of-the-linked-list) |
@@ -28,6 +29,7 @@
 | [0002-add-two-numbers](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0075-sort-colors](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0876-middle-of-the-linked-list) |
@@ -233,4 +236,8 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
