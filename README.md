@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0160-intersection-of-two-linked-lists) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shreshthabanodha-lang/leetcode-daily/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
